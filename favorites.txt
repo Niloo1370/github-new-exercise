@@ -1,4 +1,10 @@
 In this exercise I want to learn how to work with github.
+<<<<<<< HEAD
 Pasta
 Kebab 
 Rosted pork
+=======
+The little women
+The flowers of the war
+John Wick
+>>>>>>> movies
